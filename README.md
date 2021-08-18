@@ -13,8 +13,8 @@
 - Korean(native), English
 
 ### Education
-- M.S. Computer Science, Kyunggi Univ, 2019.3 - 2021.2
-- B.S. Computer Science, Kyunggi Univ, 2015.3 - 2019.2
+- M.S. Computer Science, Kyonggi Univ, 2019.3 - 2021.2
+- B.S. Computer Science, Kyonggi Univ, 2015.3 - 2019.2
 
 ### Academic Experiences
 - Researcher of [Data Mining Lab](https://sites.google.com/view/dmininglab), 2019 - 2021
