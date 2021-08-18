@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=LoLz0309)
+![](https://komarev.com/ghpvc/?username=LoLz0309&color=grey)
 
 
 <!--
