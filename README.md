@@ -23,6 +23,8 @@
 - Founder of [2G Smartphone Archive](https://cafe.naver.com/cdmasmart), 2015 - 2020
   - Smartphone framework tuning service for SKT CDMA using USA CDMA Phone (Sprint, Verizon, Samsung, LG)
 - Founder of [GepettoRobotics](https://www.gepetto.io/), 2019 -
+
+<!--
   - 지원사업
     - 2018, 기술혁신형 창업기업 지원사업 (창업진흥원) 
     - 2019, 경기 스타트업랩(AI) 입주 (경기도경제과학진흥원) 
@@ -53,7 +55,7 @@
 - 동상, 2018 중소기업융합학회 추계종합학술대회 학부생경진대회, 2018.06.01
 - 우수논문상, 2019 한국융합신호처리학회 하계학술대회, 2019.06.29
 - Best Paper Award, The 10th International Conference on Convergence Technology 2020, Jeju, 9 July 2020.
-
+-->
 <!--
 **LoLz0309/LoLz0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
