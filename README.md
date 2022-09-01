@@ -14,6 +14,7 @@
 
 ### Education
 - M.S. Computer Science, Kyonggi Univ, 2019.3 - 2021.2
+  - 3D Time-series Data Augmentation Technique for Skeleton based Action Recognition
 - B.S. Computer Science, Kyonggi Univ, 2015.3 - 2019.2
 
 ### Academic Experiences
