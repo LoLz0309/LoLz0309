@@ -8,7 +8,7 @@
 
 ### Skills
 #### Programming Languages
-- Python, C, C++, Java
+- Python, Pytorch, Tensorflow, C, C++, Java, shell scipt, (smali, ROS)
 #### Spoken Languages
 - Korean(native), English
 
@@ -22,9 +22,7 @@
 ### Startup Experiences
 - Founder of [2G Smartphone Archive](https://cafe.naver.com/cdmasmart), 2015 - 2020
   - Smartphone framework tuning service for SKT CDMA using USA CDMA Phone (Sprint, Verizon, Samsung, LG)
-- Founder of [GepettoRobotics](https://www.gepetto.io/), 2019 -
-
-
+- Co-Founder of [GepettoRobotics](https://www.gepetto.io/), 2019 -
   - 지원사업
     - 2018, 기술혁신형 창업기업 지원사업 (창업진흥원) 
     - 2019, 경기 스타트업랩(AI) 입주 (경기도경제과학진흥원) 
@@ -44,13 +42,13 @@
 - 박성수, 백지원, 조선문, 정경용, 관절질환 관리를 위한 Mask R-CNN을 이용한 모션 모니터링, 한국융합학회논문지, 제10권, 제3호, pp.1-6, 2019.3.
 
 #### Refereed Conference Papers
-- Ji-Won Baek, Seong-Eun Ryu, ByoungKook Koo, Sung-Soo Park, Kyungyong Chung, Risk Prediction using Correlation from Traffic Modality, The 10th International Conference on Convergence Technology 2020 (ICCT2020), pp.110-111, Jeju, 8-10 July 2020.
+<!--- Ji-Won Baek, Seong-Eun Ryu, ByoungKook Koo, Sung-Soo Park, Kyungyong Chung, Risk Prediction using Correlation from Traffic Modality, The 10th International Conference on Convergence Technology 2020 (ICCT2020), pp.110-111, Jeju, 8-10 July 2020.-->
 - 박성수, 백지원, 조선문, 정경용, "안드로이드 관절제어를 위한 Mask R-CNN 기반의 휴먼 모션 분석 방법", 한국지식정보기술학회 2018년 춘계학술대회, pp. 37-40, 남서울대학교, 2018.10.26.
-- 최소영, 박성수, 백지원, 김주창, 정경용, "헬스 플랫폼에서 신경망을 이용한 사용자 활동량 기반 수면 관리", 2018 중소기업융합학회 추계종합학술대회, pp. 187-188, 안양대학교, 2018.10.26.
+<!--- 최소영, 박성수, 백지원, 김주창, 정경용, "헬스 플랫폼에서 신경망을 이용한 사용자 활동량 기반 수면 관리", 2018 중소기업융합학회 추계종합학술대회, pp. 187-188, 안양대학교, 2018.10.26.
 - Ji-Won Baek, Sung-Soo Park, So-Young Choi, Ji-Soo Kang, Min-Jeong Kim, Joo-Chang Kim, Kyungyong Chung, "Knowledge-mining based Activity Recommendation  for Stress Management", The 9th International Conference on Convergence Technology 2019 (ICCT2019), pp.158-159, Jeju, 4 July 2019.
 - Ji-Won Baek, Sung-Soo Park, Joo-Chang Kim, Hyun Yoo, Kyungyong Chung, "Private based Health Block-chain for Knowledge Mining in Lifecare Platform", The 14th Asia Pacific International Conference on Information Science and Technology 2019 (APIC-IST2019). pp. 319-321, Beijing, China, 24 June 2019.
 - 김석표, 최은수, 박성수, 김주창, 정경용, 소프트웨어 교육 사용자를 위한 K-means 알고리즘을 이용한 코딩 예제 추천 방법, 한국융합신호처리학회 2019년 하계학술대회, pp.55-58, 계명대학교, 2019.6.29.
-
+-->
 #### Honor and Awards
 - 동상, 2018 중소기업융합학회 추계종합학술대회 학부생경진대회, 2018.06.01
 - 우수논문상, 2019 한국융합신호처리학회 하계학술대회, 2019.06.29
