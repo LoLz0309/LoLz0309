@@ -19,17 +19,20 @@
   - Night Bus Seeker (Daum map API, Open API, Javascript. https://youtu.be/p7THbWVp4Yk)
 
 ### Academic Experiences
-- Researcher of [Data Mining Lab](https://sites.google.com/view/dmininglab), 2019 - 2021
+- Researcher of Data Mining Lab, 2019 - 2021
+  - https://sites.google.com/view/dmininglab
   - Sung-Soo Park, Kyungyong Chung, "MMCNet: Deep Learning-based Multimodal Classification Model using Dynamic Knowledge", Personal and Ubiquitous Computing, 2019. https://doi.org/10.1007/s00779-019-01261-w
   -  박성수, 백지원, 조선문, 정경용, 관절질환 관리를 위한 Mask R-CNN을 이용한 모션 모니터링, 한국융합학회논문지, 제10권, 제3호, pp.1-6, 2019.3.
 
 ### Startup Experiences
-- Founder of [2G Smartphone Archive](https://cafe.naver.com/cdmasmart), 2015 - 2020
+- Founder of 2G Smartphone Archive, 2015 - 2020
+  - https://cafe.naver.com/cdmasmart
   - Smartphone framework tuning service for SKT CDMA using USA CDMA Phone (Sprint, Verizon)
   - Reverse Engineering(Android Framework, Smali), linux shell script (dex to oat) and Android modem settings(hidden menu).
   - 1500+ Samsung (S8, S7, S6, S5, J7 Perx, J3 Emerge, J7, J3, J1 ...)
   - 700+ LG (V20, G4, G3, Volt2, Tribute2, Volt, ...)
-- Co-Founder of [GepettoRobotics](https://www.gepetto.io/), 2019 -
+- Co-Founder of GepettoRobotics, 2019 -
+  - https://www.gepetto.io/
   - COO. AI Engineer (Motion2Emotion. Pytorch, Docker).
   - 2018, 기술혁신형 창업기원 지원사업 (예비창업패키지). 창업진흥원. 50,000,000KRW
   - 2019, 공공기술 기반 시장연계 창업탐새 지원사업 (아이코어). 과학기술정보통신부. 25,000,000KRW
