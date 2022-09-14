@@ -20,9 +20,7 @@
 
 ### Academic Experiences
 - Researcher of [Data Mining Lab](https://sites.google.com/view/dmininglab), 2019 - 2021
-- Journal Articles
   - Sung-Soo Park, Kyungyong Chung, "MMCNet: Deep Learning-based Multimodal Classification Model using Dynamic Knowledge", Personal and Ubiquitous Computing, 2019. https://doi.org/10.1007/s00779-019-01261-w
-- Domestic Journal Articles
   -  박성수, 백지원, 조선문, 정경용, 관절질환 관리를 위한 Mask R-CNN을 이용한 모션 모니터링, 한국융합학회논문지, 제10권, 제3호, pp.1-6, 2019.3.
 
 ### Startup Experiences
