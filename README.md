@@ -26,7 +26,7 @@
 ### Startup Experiences
 - Founder of [2G Smartphone Archive](https://cafe.naver.com/cdmasmart), 2015 - 2020
   - Smartphone framework tuning service for SKT CDMA using USA CDMA Phone (Sprint, Verizon, Samsung, LG)
-  - Smali Programming (Reverse engineering) and linux shell script (dex to oat). Android modem settings(hidden menu).
+  - Reverse Engineering(Android Framework, Smali), linux shell script (dex to oat) and Android modem settings(hidden menu).
 - Co-Founder of [GepettoRobotics](https://www.gepetto.io/), 2019 -
   - COO. AI Engineer (Motion2Emotion. Pytorch, Docker).
   - 2018, 기술혁신형 창업기원 지원사업 (예비창업패키지). 창업진흥원. KRW 50Million
