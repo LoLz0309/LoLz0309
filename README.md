@@ -27,8 +27,8 @@
 - Founder of [2G Smartphone Archive](https://cafe.naver.com/cdmasmart), 2015 - 2020
   - Smartphone framework tuning service for SKT CDMA using USA CDMA Phone (Sprint, Verizon)
   - Reverse Engineering(Android Framework, Smali), linux shell script (dex to oat) and Android modem settings(hidden menu).
-  - 1500+ Samsung Phone (S8, S7, S6, S5, J7 Perx, J3 Emerge, J7, J3, J1 ...)
-  - 700+ LG Phones (V20, G4, G3, Volt2, Tribute2, Volt, ...)
+  - 1500+ Samsung (S8, S7, S6, S5, J7 Perx, J3 Emerge, J7, J3, J1 ...)
+  - 700+ LG (V20, G4, G3, Volt2, Tribute2, Volt, ...)
 - Co-Founder of [GepettoRobotics](https://www.gepetto.io/), 2019 -
   - COO. AI Engineer (Motion2Emotion. Pytorch, Docker).
   - 2018, 기술혁신형 창업기원 지원사업 (예비창업패키지). 창업진흥원. KRW 50Million
