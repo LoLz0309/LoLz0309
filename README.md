@@ -1,6 +1,7 @@
-### 👋 LoLz [@LoLz0309](https://lolz0309.github.io) 
-
 ![](https://komarev.com/ghpvc/?username=LoLz0309&color=grey)
+
+### 👋 LoLz [@LoLz0309](https://lolz0309.github.io) 
+- Job Objectives : AI Researcher, Data Engineer.
 
 ### Contact
 - E-mail : wolfboy AT kyonggi.ac.kr / lolz0309 AT naver.com
@@ -8,13 +9,13 @@
 
 ### Skills
 #### Programming Languages
-- Python, Pytorch, Tensorflow, C, C++, Javascript, shell scipt, (smali, ROS)
+- Python, Pytorch, Tensorflow, C, C++, Javascript, shell scipt.
 #### Spoken Languages
 - Korean(native), English
 
 ### Education
 - M.S. Computer Science, Kyonggi Univ, 2019.3 - 2021.2
-  - 3D Time-series Data Augmentation Technique for Skeleton based Action Recognition
+  - 3D Time-series Data Augmentation Technique for Skeleton based Action Recognition.
   - Pytorch, Tensorflow(1~2), Docker, Linux shell script.
 - B.S. Computer Science, Kyonggi Univ, 2015.3 - 2019.2
   - Night Bus Seeker (https://youtu.be/p7THbWVp4Yk)
@@ -35,10 +36,11 @@
   - 700+ LG (V20, G4, G3, Volt2, Tribute2, Volt, ...)
 - Co-Founder of GepettoRobotics, 2019 -
   - https://www.gepetto.io
-  - COO. AI Engineer (Motion2Emotion. Pytorch, Docker).
-  - 2018, 기술혁신형 창업기원 지원사업 (예비창업패키지). 창업진흥원. 50,000,000KRW
-  - 2019, 공공기술 기반 시장연계 창업탐새 지원사업 (아이코어). 과학기술정보통신부. 25,000,000KRW
-  - 2020, 창업성공패키지 지원사업 (청년창업사관학교. 중소벤처기업진흥공단). 80,000,000KRW
+  - COO : Government Business Grant KRW 180Million+ 
+    - 2018, 기술혁신형 창업기원 지원사업 (예비창업패키지). 창업진흥원. 50,000,000KRW
+    - 2019, 공공기술 기반 시장연계 창업탐새 지원사업 (아이코어). 과학기술정보통신부. 25,000,000KRW
+    - 2020, 창업성공패키지 지원사업 (청년창업사관학교. 중소벤처기업진흥공단). 80,000,000KRW
+  - AI Research : Motion2Emotion. Pytorch, Docker.
 
 
 <!--
