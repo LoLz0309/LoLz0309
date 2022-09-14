@@ -34,7 +34,7 @@
   - 1500+ Samsung (S8, S7, S6, S5, J7 Perx, J3 Emerge, J7, J3, J1 ...)
   - 700+ LG (V20, G4, G3, Volt2, Tribute2, Volt, ...)
 - Co-Founder of GepettoRobotics, 2019 -
-  - https://gepetto.io
+  - https://www.gepetto.io
   - COO. AI Engineer (Motion2Emotion. Pytorch, Docker).
   - 2018, 기술혁신형 창업기원 지원사업 (예비창업패키지). 창업진흥원. 50,000,000KRW
   - 2019, 공공기술 기반 시장연계 창업탐새 지원사업 (아이코어). 과학기술정보통신부. 25,000,000KRW
