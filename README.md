@@ -24,7 +24,6 @@
 ### Academic Experiences
 - Researcher of Data Mining Lab, 2019 - 2021
   - SungSoo Park et al, "Dimensional Expansion and Time-series Data Augmentation Policy for Skeleton-based Pose Estimation," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3214659.
-  -  박성수, 백지원, 조선문, 정경용, 관절질환 관리를 위한 Mask R-CNN을 이용한 모션 모니터링, 한국융합학회논문지, 제10권, 제3호, pp.1-6, 2019.3.
 
 ### Startup Experiences
 - Founder of 2G Smartphone Archive, 2015 - 2020
