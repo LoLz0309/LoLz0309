@@ -23,7 +23,7 @@
 
 ### Academic Experiences
 - Researcher of Data Mining Lab, 2019 - 2021
-  - Sung-Soo Park, Kyungyong Chung, "MMCNet: Deep Learning-based Multimodal Classification Model using Dynamic Knowledge", Personal and Ubiquitous Computing, 2019. doi:10.1007/s00779-019-01261-w
+  - SungSoo Park et al, "Dimensional Expansion and Time-series Data Augmentation Policy for Skeleton-based Pose Estimation," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3214659.
   -  박성수, 백지원, 조선문, 정경용, 관절질환 관리를 위한 Mask R-CNN을 이용한 모션 모니터링, 한국융합학회논문지, 제10권, 제3호, pp.1-6, 2019.3.
 
 ### Startup Experiences
@@ -40,7 +40,9 @@
     - 2020, 창업성공패키지 지원사업 (청년창업사관학교. 중소벤처기업진흥공단). 80,000,000KRW
   - AI Research : Motion2Emotion. Pytorch, Docker.
   - https://www.gepetto.io
-
+- Founder of LoLz IDC, 2021 - 2022
+  - High-performance Computing Solution.
+  - Data Service Operations and Management.
 
 <!--
   - 지원사업
