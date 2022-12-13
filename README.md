@@ -5,8 +5,8 @@
 
 ### Contact
 - E-mail : wolfboy AT kyonggi.ac.kr / lolz0309 AT naver.com
-- Github : github.com/LoLz0309
-- Blog : lolz0309.tistory.com
+- Github : [github.com/LoLz0309](github.com/LoLz0309)
+- Blog : [lolz0309.tistory.com](lolz0309.tistory.com)
 
 ### Skills
 #### Programming Languages
