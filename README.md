@@ -1,11 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=LoLz0309&color=grey)
 
 ### 👋 LoLz [@LoLz0309](https://lolz0309.github.io) 
-- Job Objectives : AI Researcher, Data Engineer.
+- Job Objectives : AI Researcher, ML Engineer, Data Scientist
 
 ### Contact
 - E-mail : wolfboy AT kyonggi.ac.kr / lolz0309 AT naver.com
-- Phone : +82-50-7367-0309
+- Github : github.com/LoLz0309
+- Blog : lolz0309.tistory.com
 
 ### Skills
 #### Programming Languages
