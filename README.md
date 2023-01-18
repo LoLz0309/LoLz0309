@@ -2,6 +2,7 @@
 
 ### 👋 LoLz [@LoLz0309](https://github.com/LoLz0309)
 - Job Objectives : AI Researcher, ML Engineer, Data Scientist
+- I have and like zero base buttom-up experiences.
 
 ### Contact
 - E-mail : wolfboy AT kyonggi.ac.kr / lolz0309 AT naver.com
@@ -9,22 +10,28 @@
 - Blog : [lolz0309.tistory.com](https://lolz0309.tistory.com)
 
 ### Skills
+#### Machine Learning / Data Eng
+- Pytorch, Tensorflow, ONNX, TensorRT
+- TF Serving, Nvidia Triton Serving
+- Kafka
+- Kubernetes, Docker, MLFlow, Kubeflow
 #### Programming Languages
-- Python, Pytorch, Tensorflow, C, C++, Javascript, shell scipt.
+- Python, C, C++, Javascript, shell scipt.
 #### Spoken Languages
 - Korean(native), English
 
 ### Education
 - M.S. Computer Science, Kyonggi Univ, 2019.3 - 2021.2
   - 3D Time-series Data Augmentation Technique for Skeleton based Action Recognition.
-  - Pytorch, Tensorflow(1~2), Docker, Linux shell script.
+  - Pytorch, Tensorflow, Keras, Docker, Linux shell script.
 - B.S. Computer Science, Kyonggi Univ, 2015.3 - 2019.2
-  - Night Bus Seeker (https://youtu.be/p7THbWVp4Yk)
+  - Night Bus Seeker [https://youtu.be/p7THbWVp4Yk](https://youtu.be/p7THbWVp4Yk)
   - Daum map API, Open API(data.go.kr), Javascript.
 
 ### Academic Experiences
 - Researcher of Data Mining Lab, 2019 - 2021
-  - SungSoo Park et al, "Dimensional Expansion and Time-series Data Augmentation Policy for Skeleton-based Pose Estimation," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3214659.
+  - Machine Learning, Collaborative Filtering, TF-IDF, Data Augmentation, 3D Skeleton Pose Estimation.
+  - SungSoo Park et al, "Dimensional Expansion and Time-series Data Augmentation Policy for Skeleton-based Pose Estimation," in IEEE Access, 2022, doi: [10.1109/ACCESS.2022.3214659](https://www.doi.org/10.1109/ACCESS.2022.3214659).
 
 ### Startup Experiences
 - Founder of 2G Smartphone Archive, 2015 - 2020
@@ -32,18 +39,20 @@
   - Reverse Engineering(Android Framework, Smali), linux shell script (dex to oat) and Android modem settings(hidden menu).
   - 1500+ Samsung (S8, S7, S6, S5, J7 Perx, J3 Emerge, J7, J3, J1 ...)
   - 700+ LG (V20, G4, G3, Volt2, Tribute2, Volt, ...)
-  - https://cafe.naver.com/cdmasmart
+  - [https://cafe.naver.com/cdmasmart](https://cafe.naver.com/cdmasmart)
 - Co-Founder of GepettoRobotics, 2019 -
   - COO : Government Business Grant KRW 180Million+ 
     - 2018, 기술혁신형 창업기원 지원사업 (예비창업패키지). 창업진흥원. 50,000,000KRW
     - 2019, 공공기술 기반 시장연계 창업탐새 지원사업 (아이코어). 과학기술정보통신부. 25,000,000KRW
     - 2020, 창업성공패키지 지원사업 (청년창업사관학교. 중소벤처기업진흥공단). 80,000,000KRW
-  - AI Research : Motion2Emotion. Pytorch, Docker.
-  - https://www.gepetto.io
+  - AI Research : Motion2Emotion. Pytorch, ONNX, TensorRT, MLFlow, TF Serving, Triton Serving, Docker.
+  - [https://www.gepetto.io](https://www.gepetto.io)
 - Founder of LoLz IDC, 2021 - 2022
   - High-performance Computing Solution.
-  - Data Service Operations and Management.
-
+  - H/W & S/W Managed Service for HPC. 
+  - REST based System Monitoring Solution. 
+  - Auto Soft/Hard Reset Solution using IOT.
+  
 <!--
   - 지원사업
     - 2018, 기술혁신형 창업기업 지원사업 (창업진흥원) 
