@@ -5,6 +5,7 @@
 ![LoLz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoLz&show_icons=true&theme=dark)
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=LoLz0309)](https://solved.ac/LoLz0309)
+[![코드트리|실력진단-lolz0309](https://banner.codetree.ai/v1/banner/lolz0309)](https://www.codetree.ai/profiles/lolz0309)
 
 ### Contact
 - E-mail : lolz0309 AT naver.com
