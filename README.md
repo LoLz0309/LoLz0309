@@ -2,23 +2,12 @@
 
 ### 👋 LoLz [@LoLz0309](https://github.com/LoLz0309)
 
-![LoLz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoLz&show_icons=true&theme=dark)
-[![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=LoLz0309)](https://solved.ac/LoLz0309)
-[![코드트리|실력진단-lolz0309](https://banner.codetree.ai/v1/banner/lolz0309)](https://www.codetree.ai/profiles/lolz0309)
-
 ### Contact
 - E-mail : lolz0309 AT naver.com
 - Github : [github.com/LoLz0309](https://github.com/LoLz0309)
-- Blog : [lolz0309.tistory.com](https://lolz0309.tistory.com)
 
 ### Career
-- SW Engineer, Mobile eXperience, Samsung Electronics, 2023 -
-
-### Certification
-- Professional Programmer, Samsung Electronics, 2023
-- Advanced Programmer, Samsung Electronics, 2023
-- Engineer Information Processing, HRDK, 2018
+- UEFI Firmware Engineer, Mobile eXperience, Samsung Electronics, 2023 -
 
 ### Startup Experiences
 - Founder of 2G Smartphone Archive, 2015 - 2020
@@ -31,3 +20,12 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=LoLz0309)](https://so
 
 ### Academic Experiences
 - Researcher of Data Mining Lab, 2019 - 2021
+
+### Certification
+- Professional Programmer, Samsung Electronics, 2023
+- Advanced Programmer, Samsung Electronics, 2023
+- Engineer Information Processing, HRDK, 2018
+
+![LoLz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoLz&show_icons=true&theme=dark)
+[![Solved.ac
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=LoLz0309)](https://solved.ac/LoLz0309)
